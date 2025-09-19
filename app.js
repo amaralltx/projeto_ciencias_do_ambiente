@@ -91,7 +91,7 @@ const mindMapOptions = {
   view: {
     hmargin: 0,
     vmargin: 0,
-    line_width: 5,
+    line_width: 2,
     line_color: '#547768ff',
     engine: 'canvas',
     draggable: true,
